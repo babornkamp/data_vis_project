@@ -191,3 +191,8 @@ dmypy.json
 *.code-workspace
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,python,jupyternotebooks,vscode
+
+
+
+# Things I have ignored
+*.csv
